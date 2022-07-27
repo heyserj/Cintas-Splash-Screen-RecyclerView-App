@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Splash Screen App</string>
+    <string name="login_prompt">Please enter your Cintas login credentials below.</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="welcome_text">Welcome,</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Closed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
